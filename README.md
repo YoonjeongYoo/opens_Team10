@@ -22,10 +22,11 @@
 - 물리적 워커노드 2개 이상이며, 하나의 Windows PC에 WSL과 버추얼 박스로 구성 가능
   
 <h2 align="left"> 프로젝트 구성도  </h2>
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/KakaoTalk_Photo_2023-12-22-17-48-03.png"/></span>&nbsp;
+    <img width="1165" height="543" alt="image" src="https://github.com/user-attachments/assets/eb90f83f-f44b-4b2f-8973-41c28b13654a" />
 <h2 align="left"> Minikube & Kubectl </h2>
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/minikube.png" height="300"/></span>&nbsp;
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202023-12-21%20%EC%98%A4%EC%A0%84%2010.50.33.png" height="300"/></span>&nbsp;
+    <img width="1115" height="531" alt="image" src="https://github.com/user-attachments/assets/bf5a080f-15b4-4f39-9418-5fe35a3cb907" />
+    <img width="1070" height="294" alt="image" src="https://github.com/user-attachments/assets/9a340d58-898d-45c6-8744-00ec3bf305bc" />
+    <img width="805" height="336" alt="image" src="https://github.com/user-attachments/assets/65b53724-dacc-4ad9-96e3-511f58a4ecf6" />
 <h2 align="left"> Web서비스 Deployment </h2>
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/2.png" height="300"/></span>&nbsp;
-    <span><img src="https://github.com/mitsumi73/kubectl/blob/main/KakaoTalk_Image_2023-12-21-22-43-09.jpeg" height="320"/></span>&nbsp;
+    <img width="871" height="579" alt="image" src="https://github.com/user-attachments/assets/efb4f2af-46f8-4db7-9e14-605b849c6131" />
+
